@@ -1,0 +1,8 @@
+include:
+  - .well-known
+```
+4. Click **Commit changes**
+
+Wait 2–3 minutes for GitHub Actions to rebuild, then test the URL again:
+```
+https://caliberd.github.io/.well-known/apple-developer-merchantid-domain-association
